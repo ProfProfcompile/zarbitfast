@@ -1,0 +1,9 @@
+Building Zarbitfast
+
+See doc/readme-qt.rst for instructions on building Zarbitfast QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Zarbitfast.
+
+See doc/build-*.txt for instructions on building Zarbitfastd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Zarbitfast.

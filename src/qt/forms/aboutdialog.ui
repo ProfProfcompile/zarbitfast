@@ -94,7 +94,8 @@
         <string>
 Copyright © 2009-2012 Bitcoin Developers
 Copyright © 2012 PeerCoin Developers
-Copyright © 2014 Zarbitfast Developers
+Copyright © 2014 BitcoinfastCoin Developers
+Copyright © 2018 Zarbitfast Developers
 </string>
        </property>
        <property name="textInteractionFlags">
@@ -109,10 +110,19 @@ Copyright © 2014 Zarbitfast Developers
        </property>
        <property name="text">
         <string>
-This is experimental software. If you don't treat it as such, you're likely to put an eye out!
-
+Zarbit's software is completely experimental and treat it as such - Never send private keys on discord or any !
+         
+Join us on Zarbit and Zarbit Fast on Discord (https://discord.gg/ar6BgEq)
+         
 Distributed under the MIT/X11 software license, see the accompanying file COPYING or http://www.opensource.org/licenses/mit-license.php.
-
+Pool list
+(http://1pool.eu/)
+(https://theminingpool.online/)
+(https://fpgapool.com/)
+(https://wildhash.com/)
+(https://mecryptosolo.club/)
+         
+Official website (http://zarbitcoinofficial.co.za      
 This product includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit (http://www.openssl.org/) and cryptographic software written by Eric Young (eay@cryptsoft.com) and UPnP software written by Thomas Bernard.</string>
        </property>
        <property name="wordWrap">

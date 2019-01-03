@@ -7,8 +7,8 @@ Zarbitfast - ZZF
 - 30 minted block confirmations
 - PoS block generation after 1 day of holding
 
-1,000,000 Premine.
+
 
 Ports:
-connection:		8869
-RPC:			8869
+
+RPC:			8819
